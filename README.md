@@ -3,4 +3,4 @@
 <strong>Server</strong>
 ## Setup
 	- Maven
-	- JDK 11
+	- JDK 8

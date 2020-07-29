@@ -1,2 +1,4 @@
 .idea/
 Server.iml
+data/secrets.prop
+target/
